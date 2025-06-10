@@ -1,7 +1,7 @@
 criaCartao(
     'Sobre Neymar Jr.',
     'Em que ano ele nasceu?',
-    'Um bom neymarzete diria: 1992'
+    'Um bom neymarzete diria: quando a mae dele deu a luz'
 )
 
 criaCartao(
@@ -13,11 +13,11 @@ criaCartao(
 criaCartao(
    ' Gols de Neymar',
     'Quantos gols Neymar tem?',
-    '442 gols'
+    'mais de 441 e menos de 443'
 )
 
 criaCartao(
     'Clubes',
     'Quis clubles Neymar Jr defendeu?',
-    'defendeu quatro clubes durante a carreira: Santos, Barcelona, da Espanha, Paris Saint-Germain, da França, e Al Hilal, da Arábia Saudita.'
+    'ele defendeu aqueles que ele jogou né.'
 )
