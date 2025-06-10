@@ -1,23 +1,23 @@
 criaCartao(
-    'Conhecimentos gerais',
-    'Quem nasceu primeiro, o ovo ou a galinha?',
-    'Um bom agrônimo diria: depende'
+    'Sobre Neymar Jr.',
+    'Em que ano ele nasceu?',
+    'Um bom neymarzete diria: 1992'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da Paris?',
-    'A capital de Paris é Diadema'
+    'Titulos De Neymar',
+    'Quantos titulos neymar tem em sua carreira?',
+    'Neymar Jr. conquistou 30 títulos'
 )
 
 criaCartao(
-    'História',
-    'Qual a cor do cavalo "Branco" de Napoleão?',
-    'Só sei que não era verde'
+   ' Gols de Neymar',
+    'Quantos gols Neymar tem?',
+    '442 gols'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'O que significa "i love you"?',
-    'Quer dizer morena em Francês'
+    'Clubes',
+    'Quis clubles Neymar Jr defendeu?',
+    'defendeu quatro clubes durante a carreira: Santos, Barcelona, da Espanha, Paris Saint-Germain, da França, e Al Hilal, da Arábia Saudita.'
 )
